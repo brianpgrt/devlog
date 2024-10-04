@@ -4,7 +4,6 @@ date: "02.11.2024"
 category: "CSS"
 ---
 
-
 [Standard Library Documentation](https://mdxjs.com "title")
 
 ```tsx
