@@ -4,9 +4,6 @@ date: "02.11.2024"
 category: "CSS"
 ---
 
-import { Loading } from "@/components/elements/loading";
-
-<Loading />
 
 [Standard Library Documentation](https://mdxjs.com "title")
 
