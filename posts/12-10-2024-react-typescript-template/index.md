@@ -3,27 +3,35 @@ title: "React Typescript Template"
 date: "12.10.2024"
 ---
 
-
+# ------------
 [MDX](https://mdxjs.com "title")
 
-
+\
+# ------------
 > A greater than…
 
 
+\
+# ------------
 A backslash\
 before a line break…
 
 
+\
+# ------------
 Some `backticks` for inline.
 
 ```tsx
 backtick.fences('for blocks')
 ```
 
-
+\
+# ------------
 Some *asterisks* for emphasis.
 
 
+\
+# ------------
 # One number sign…
 
 
@@ -42,6 +50,8 @@ Some *asterisks* for emphasis.
 ###### Six number signs…
 
 
+\
+# ------------
 Three asterisks for a thematic break:
 
 ***
@@ -60,6 +70,8 @@ Three asterisks for a thematic break:
 ![simtrade](https://raw.githubusercontent.com/haorocks/devlog/main/posts/12-10-2024-react-typescript-template/simtrade.png "title")
 
 
+\
+# ------------
 * asterisks for unordered items
 
 1. decimals and a dot for ordered items
@@ -68,9 +80,13 @@ Three asterisks for a thematic break:
 1. decimals and a dot for ordered
 
 
+\
+# ------------
 Just some text…
 
 
+\
+# ------------
 ```tsx
 backtick.fences('for blocks')
 ```
