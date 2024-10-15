@@ -3,10 +3,9 @@ title: "React Typescript Template"
 date: "12.10.2024"
 ---
 
-# ------------
 [MDX](https://mdxjs.com "title")
-
-
+\
+\
 ```tsx
 import React from "react";
 import { omitBy } from "lodash";
@@ -83,6 +82,6 @@ export function FlexItem({ order, grow, shrink, basis, flex, self, children }: F
 	return <div style={omitStyle}>{children}</div>;
 }
 ```
-
-
+\
+\
 ## 1. decimals and a dot for ordered items
