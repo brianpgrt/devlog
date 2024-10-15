@@ -5,7 +5,10 @@ date: "12.10.2024"
 
 [MDX](https://mdxjs.com "title")
 
-\ \ \
+\
+&nbsp;
+\
+&nbsp;
 
 ```tsx
 import React from "react";
