@@ -96,4 +96,4 @@ export function FlexItem({ order, grow, shrink, basis, flex, self, children }: F
 \
 &nbsp;
 
-## 1. decimals and a dot for ordered items
+## * Variable with a value from other variables
