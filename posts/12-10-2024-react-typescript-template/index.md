@@ -46,7 +46,7 @@ Three asterisks for a thematic break:
 
 ***
 
-![adidas](./adidas.png "title")
+![adidas](/posts/12-10-2024-react-typescript-template/adidas.png "title")
 
 
 * asterisks for unordered items
