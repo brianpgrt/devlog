@@ -1,7 +1,6 @@
 ---
 title: "React Typescript Template"
 date: "05.11.2024"
-category: "REACT JS"
 ---
 
 In React, a "hook" is a special function that allows you to "hook into" React state and lifecycle features from functional components. Hooks were introduced in React 16.8 as a way to use state and other React features without writing a class component.
