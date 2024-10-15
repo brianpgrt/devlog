@@ -21,7 +21,7 @@ date: "12.10.2024"
 \
 &nbsp;
 
-```tsx
+```rust
 type ParseResult<T> = Result<T, ParseError>;
  
 impl<'a> Parser<'a> {
