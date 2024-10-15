@@ -46,7 +46,7 @@ Three asterisks for a thematic break:
 
 ***
 
-![Alt text](/logo.png "title")
+![Alt text](/adidas.png "title")
 
 
 * asterisks for unordered items
