@@ -9,6 +9,7 @@ date: "12.10.2024"
 &nbsp;
 \
 &nbsp;
+\
 
 ```tsx
 import React from "react";
@@ -88,7 +89,9 @@ export function FlexItem({ order, grow, shrink, basis, flex, self, children }: F
 ```
 
 \
+&nbsp;
 \
+&nbsp;
 \
 
 ## 1. decimals and a dot for ordered items
