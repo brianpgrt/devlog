@@ -5,7 +5,7 @@ date: "12.10.2024"
 
 [MDX](https://mdxjs.com "title")
 
-\s\s
+\/\
 
 ```tsx
 import React from "react";
@@ -84,6 +84,6 @@ export function FlexItem({ order, grow, shrink, basis, flex, self, children }: F
 }
 ```
 
-\s\s
+\/\
 
 ## 1. decimals and a dot for ordered items
