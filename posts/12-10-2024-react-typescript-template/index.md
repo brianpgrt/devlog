@@ -12,6 +12,15 @@ date: "12.10.2024"
 \
 &nbsp;
 
+![Alt text](https://raw.githubusercontent.com/haorocks/devlog/main/posts/12-10-2024-react-typescript-template/airbnb.jpeg "title")
+
+\
+&nbsp;
+\
+&nbsp;
+\
+&nbsp;
+
 ```tsx
 import React from "react";
 import { omitBy } from "lodash";
