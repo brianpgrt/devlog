@@ -44,9 +44,11 @@ Some *asterisks* for emphasis.
 
 Three asterisks for a thematic break:
 
-***
+***\\\\\
 
-![adidas](https://raw.githubusercontent.com/haorocks/devlog/main/posts/12-10-2024-react-typescript-template/adidas.png "title")
+![adidas](https://raw.githubusercontent.com/haorocks/devlog/main/posts/12-10-2024-react-typescript-template/adidas.png "title")\\\\\
+
+![simtrade](https://raw.githubusercontent.com/haorocks/devlog/main/posts/12-10-2024-react-typescript-template/simtrade.png "title")
 
 
 * asterisks for unordered items
