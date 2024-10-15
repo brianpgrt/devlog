@@ -6,93 +6,83 @@ date: "12.10.2024"
 # ------------
 [MDX](https://mdxjs.com "title")
 
-\
-# ------------
-> A greater than…
-
-
-\
-# ------------
-A backslash\
-before a line break…
-
-
-\
-# ------------
-Some `backticks` for inline.
 
 ```tsx
-backtick.fences('for blocks')
-```
+import React from "react";
+import { omitBy } from "lodash";
 
-\
-# ------------
-Some *asterisks* for emphasis.
+type FlexContainerProps = {
+	display?: "flex" | "inline-flex";
+	direction?: React.CSSProperties["flexDirection"];
+	wrap?: React.CSSProperties["flexWrap"];
+	flow?: React.CSSProperties["flexFlow"];
+	justifyContent?: React.CSSProperties["justifyContent"];
+	alignItems?: React.CSSProperties["alignItems"];
+	alignContent?: React.CSSProperties["alignContent"];
+	gap?: React.CSSProperties["gap"];
+	rowGap?: React.CSSProperties["rowGap"];
+	columnGap?: React.CSSProperties["columnGap"];
+	style?: React.CSSProperties;
+	children: React.ReactNode;
+};
 
+type FlexItemProps = {
+	order?: React.CSSProperties["order"];
+	grow?: React.CSSProperties["flexGrow"];
+	shrink?: React.CSSProperties["flexShrink"];
+	basis?: React.CSSProperties["flexBasis"];
+	flex?: React.CSSProperties["flex"];
+	self?: React.CSSProperties["alignSelf"];
+	children: React.ReactNode;
+};
 
-\
-# ------------
-# One number sign…
+export function FlexContainer({
+	display = "flex",
+	direction,
+	wrap,
+	flow,
+	justifyContent,
+	alignItems,
+	alignContent,
+	gap,
+	rowGap,
+	columnGap,
+	style = {},
+	children,
+}: FlexContainerProps) {
+	const inline = {
+		display,
+		flexDirection: direction,
+		flexWrap: wrap,
+		flexFlow: flow,
+		justifyContent,
+		alignItems,
+		alignContent,
+		gap,
+		rowGap,
+		columnGap,
+	};
 
+	const omitStyle = omitBy(inline, (s) => !s);
 
-## Two number signs…
+	return <div style={{ ...omitStyle, ...style }}>{children}</div>;
+}
 
+export function FlexItem({ order, grow, shrink, basis, flex, self, children }: FlexItemProps) {
+	const inline = {
+		order,
+		flexGrow: grow,
+		flexShrink: shrink,
+		flexBasis: basis,
+		flex,
+		alignSelf: self,
+	};
 
-### Three number signs…
+	const omitStyle = omitBy(inline, (s) => !s);
 
-
-#### Four number signs…
-
-
-##### Five number signs…
-
-
-###### Six number signs…
-
-
-\
-# ------------
-Three asterisks for a thematic break:
-
-***
-\
-\
-\
-\
-\
-
-![adidas](https://raw.githubusercontent.com/haorocks/devlog/main/posts/12-10-2024-react-typescript-template/adidas.png "title")
-\
-\
-\
-\
-\
-![simtrade](https://raw.githubusercontent.com/haorocks/devlog/main/posts/12-10-2024-react-typescript-template/simtrade.png "title")
-
-
-\
-# ------------
-* asterisks for unordered items
-
-1. decimals and a dot for ordered items
-
-
-1. decimals and a dot for ordered
-
-
-\
-# ------------
-Just some text…
-
-
-\
-# ------------
-```tsx
-backtick.fences('for blocks')
+	return <div style={omitStyle}>{children}</div>;
+}
 ```
 
 
-Two **asterisks** for strong.
-
-
-* asterisks for unordered
+## 1. decimals and a dot for ordered items
