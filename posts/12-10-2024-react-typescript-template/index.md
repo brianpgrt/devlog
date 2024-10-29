@@ -12,6 +12,8 @@ date: "12.10.2024"
 \
 &nbsp;
 
+Two **asterisks** for strong.
+
 ![Alt text](https://raw.githubusercontent.com/haorocks/devlog/main/posts/12-10-2024-react-typescript-template/airbnb.jpeg "title")
 
 \
