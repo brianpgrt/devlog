@@ -9,11 +9,14 @@ I log some loading I often use
 \
 &nbsp;
 
--   Loading Spin 1
+### 1. Loading Spin 1
 
-> index.tsx
+\
+&nbsp;
 
-```rust
+_index.tsx_
+
+```tsx
 import React from "react";
 
 import s from "./loading_spin.module.css";
@@ -32,9 +35,14 @@ export const LoadingSpin = ({ size = 32 }: LoadingSpinProps) => {
 };
 ```
 
-> loading_spin.module.css
+\
+&nbsp;
+\
+&nbsp;
 
-```rust
+_loading_spin.module.css_
+
+```css
 @keyframes spin {
 	0% {
 		transform: rotate(0deg);
