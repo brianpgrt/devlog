@@ -14,7 +14,7 @@ I log some loading I often use
 \
 &nbsp;
 
-_index.tsx_
+index.tsx
 
 ```tsx
 import React from "react";
@@ -35,12 +35,7 @@ export const LoadingSpin = ({ size = 32 }: LoadingSpinProps) => {
 };
 ```
 
-\
-&nbsp;
-\
-&nbsp;
-
-_loading_spin.module.css_
+loading_spin.module.css
 
 ```css
 @keyframes spin {
