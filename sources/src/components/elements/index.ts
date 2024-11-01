@@ -1,4 +1,5 @@
 export * from "./loadingSpin";
+export * from "./loadingSpin2";
 export * from "./button";
 export * from "./input";
 export * from "./grid";
