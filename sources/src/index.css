@@ -1,0 +1,159 @@
+@font-face {
+	font-family: "EuclidFlex";
+	src: url("./assets/fonts/euclid_flex_300.ttf") format("TrueType");
+	font-weight: 300;
+}
+
+@font-face {
+	font-family: "EuclidFlex";
+	src: url("./assets/fonts/euclid_flex_400.ttf") format("TrueType");
+	font-weight: 400;
+}
+
+@font-face {
+	font-family: "EuclidFlex";
+	src: url("./assets/fonts/euclid_flex_500.ttf") format("TrueType");
+	font-weight: 500;
+}
+
+@font-face {
+	font-family: "EuclidFlex";
+	src: url("./assets/fonts/euclid_flex_600.ttf") format("TrueType");
+	font-weight: 600;
+}
+
+@font-face {
+	font-family: "NibProItalic";
+	src: url("./assets/fonts/nib_pro_italic_400.ttf") format("TrueType");
+	font-weight: 400;
+	font-style: italic;
+}
+
+html,
+body {
+	margin: 0;
+	font-family:
+		Vollkorn,
+		system-ui,
+		-apple-system,
+		BlinkMacSystemFont,
+		"Segoe UI",
+		"Roboto",
+		"Oxygen",
+		"Ubuntu",
+		"Cantarell",
+		"Fira Sans",
+		"Droid Sans",
+		"Helvetica Neue",
+		sans-serif;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+	font-size: 14px;
+}
+
+code {
+	font-family: "Overpass Mono", Menlo, Monaco, Consolas, "Courier New", monospace;
+}
+
+*:focus-visible {
+	outline: none;
+}
+
+input:-webkit-autofill,
+input:-webkit-autofill:focus {
+	transition:
+		background-color 0s 600000s,
+		color 0s 600000s;
+}
+
+a {
+	color: inherit;
+	text-decoration: none;
+}
+
+::-webkit-scrollbar {
+	width: 4px;
+	height: 4px;
+}
+
+::-webkit-scrollbar-track {
+	background: #e9e9e9;
+}
+
+::-webkit-scrollbar-thumb {
+	background: #a8a8a8;
+	border-radius: 4px;
+}
+
+.ant-form-item-label {
+	display: flex;
+}
+
+.ant-form-horizontal .ant-form-item-row {
+	align-items: center;
+}
+
+.ant-form-item-label > label {
+	text-transform: uppercase;
+	letter-spacing: 0.7px;
+}
+
+.ant-form-vertical .ant-form-item-label > label {
+	line-height: 18px;
+	flex-direction: row-reverse;
+}
+
+.ant-form-item-label > label::before {
+	margin-inline-start: 4px !important;
+	margin-inline-end: 0 !important;
+	line-height: unset !important;
+	font-size: 12px !important;
+}
+
+.ant-form-item-label > label::after {
+	display: none;
+}
+
+.ant-form-item-explain-error {
+	font-size: 12px;
+	line-height: 24px;
+}
+
+.ant-notification-notice-wrapper {
+	border-radius: 12px !important;
+}
+
+.ant-notification-notice-close {
+	top: 16px !important;
+	inset-inline-end: 16px !important;
+}
+
+.ant-notification-notice-icon {
+	display: flex;
+}
+
+.ant-notification-notice::before {
+	content: "";
+	width: 3px;
+	position: absolute;
+	top: 16px;
+	bottom: 16px;
+	left: 0;
+	border-radius: 0px 12px 12px 0px;
+}
+
+.ant-notification-notice-success::before {
+	background: #018e42;
+}
+
+.ant-notification-notice-error::before {
+	background: #bf1a2f;
+}
+
+.ant-notification-notice-info::before {
+	background: #0c99ec;
+}
+
+.ant-notification-notice-warning::before {
+	background: #ffb11a;
+}

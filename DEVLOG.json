@@ -1,6 +1,41 @@
 {
 	"posts": [
 		{
+			"title": "Mediator/Middleware Pattern",
+			"date": "07.11.2024",
+			"slug": "07-11-2024-mediator-middleware-pattern"
+		},
+		{
+			"title": "Mixin Pattern",
+			"date": "06.11.2024",
+			"slug": "06-11-2024-mixin-pattern"
+		},
+		{
+			"title": "Module Pattern",
+			"date": "05.11.2024",
+			"slug": "05-11-2024-module-pattern"
+		},
+		{
+			"title": "Observer Pattern",
+			"date": "04.11.2024",
+			"slug": "04-11-2024-observer-pattern"
+		},
+		{
+			"title": "Prototype Pattern",
+			"date": "03.11.2024",
+			"slug": "03-11-2024-prototype-pattern"
+		},
+		{
+			"title": "Proxy Pattern",
+			"date": "02.11.2024",
+			"slug": "02-11-2024-proxy-pattern"
+		},
+		{
+			"title": "Singleton Pattern",
+			"date": "01.11.2024",
+			"slug": "01-11-2024-singleton-pattern"
+		},
+		{
 			"title": "React Typescript Template",
 			"date": "12.10.2024",
 			"slug": "12-10-2024-react-typescript-template"

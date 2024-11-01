@@ -1,9 +1,20 @@
 {
 	"projects": [
 		{
+			"title": "NextJs GuaranTek",
+			"date": "01.12.2024",
+			"path": "https://hao.rocks"
+		},
+		{
+			"title": "NextJs JenaHuynh",
+			"date": "01.11.2024",
+			"path": "https://hao.rocks"
+		},
+		{
 			"title": "NextJs Dokever",
 			"date": "01.10.2024",
-			"slug": "01-10-2024-nextjs-dokever"
+			"path": "https://hao.rocks",
+			"image": "https://raw.githubusercontent.com/haorocks/devlog/main/projects/01-10-2024-nextjs-dokever/airbnb.jpeg"
 		}
 	]
 }
