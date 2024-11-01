@@ -13,7 +13,7 @@ I log some loading I often use
 
 > index.tsx
 
-```typescript
+```rust
 import React from "react";
 
 import s from "./loading_spin.module.css";
@@ -34,7 +34,7 @@ export const LoadingSpin = ({ size = 32 }: LoadingSpinProps) => {
 
 > loading_spin.module.css
 
-```css
+```rust
 @keyframes spin {
 	0% {
 		transform: rotate(0deg);
