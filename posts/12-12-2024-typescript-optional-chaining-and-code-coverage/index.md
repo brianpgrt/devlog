@@ -62,6 +62,8 @@ jest --coverage
 
 ![Alt text](https://raw.githubusercontent.com/haorocks/devlog/main/posts/12-12-2024-typescript-optional-chaining-and-code-coverage/1.jpeg)
 
+&nbsp;
+
 But look closely. You will notice that the Conditional Coverage (% Branch section) does not get to 100%.
 
 &nbsp;
@@ -98,6 +100,10 @@ it("should greet in generic if no person", () => {
 
 Run the test again. Now we’re able to get to 100% coverage!
 
+&nbsp;
+
 ![Alt text](https://raw.githubusercontent.com/haorocks/devlog/main/posts/12-12-2024-typescript-optional-chaining-and-code-coverage/2.jpeg)
+
+&nbsp;
 
 **Disclaimer:** I’m not saying I’m obsessed with code coverage, or I’m advocating for 100% test coverage here. It’s up to you to decide how much coverage is good for your project.
