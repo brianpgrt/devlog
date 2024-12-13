@@ -1,13 +1,14 @@
 ---
 title: "TypeScript / Optional Chaining and Code Coverage"
 date: "12.12.2024"
+repository: "https://github.com/haorocks"
 ---
 
 For the uninformed, **optional chaining** is a new JavaScript feature that allows you to access property values deep inside an object without checking that each reference in the chain is valid. For example:
 
 &nbsp;
 
-```tsx
+```typescript
 // this nested if hell
 if (foo) {
 	if (foo.bar) {
@@ -29,7 +30,7 @@ Let’s take a look at this example. I have a greeting method that says hello to
 
 &nbsp;
 
-```tsx
+```typescript
 interface Person {
 	name: string;
 }
@@ -49,7 +50,7 @@ And it’s pretty easy to test this method:
 
 &nbsp;
 
-```tsx
+```typescript
 describe("test greeting", () => {
 	it("should greet the name", () => {
 		const result = greeting({ name: "Huy" });
@@ -69,7 +70,7 @@ Now, run the test and get some code coverage. Things seem fine:
 
 &nbsp;
 
-```tsx
+```typescript
 jest --coverage
 ```
 
@@ -87,7 +88,7 @@ And the code that does not have enough coverage is this:
 
 &nbsp;
 
-```tsx
+```typescript
 if (person?.name) {
 ```
 
@@ -101,7 +102,7 @@ Turned out, it’s the optional chaining that creates an implicit branch, so the
 
 &nbsp;
 
-```tsx
+```typescript
 if (person) {
 	if (person.name) {
 		return `Hello! ${person.name}`;
@@ -116,7 +117,7 @@ In the test, we did not cover the case where person is falsy. Let’s fix it by 
 
 &nbsp;
 
-```tsx
+```typescript
 it("should greet in generic if no person", () => {
 	const result = greeting();
 	expect(result).toEqual("Hi there!");
