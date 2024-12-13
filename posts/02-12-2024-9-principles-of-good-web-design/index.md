@@ -1,5 +1,5 @@
 ---
-title: "What Makes a Good Website: 9 Principles of Good Web Design"
+title: "9 Principles of Good Web Design"
 date: "02.12.2024"
 ---
 
