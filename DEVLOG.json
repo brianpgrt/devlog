@@ -1,64 +1,84 @@
 {
-	"posts": [
+	"posts_category": [
 		{
-			"title": "Mediator/Middleware Pattern",
-			"date": "07.11.2024",
-			"slug": "07-11-2024-mediator-middleware-pattern"
+			"category": "TYPESCRIPT",
+			"posts": [
+				{
+					"title": "TypeScript / Optional Chaining and Code Coverage",
+					"slug": "12-12-2024-typescript-optional-chaining-and-code-coverage",
+					"date": "12.12.2024"
+				}
+			]
 		},
 		{
-			"title": "Mixin Pattern",
-			"date": "06.11.2024",
-			"slug": "06-11-2024-mixin-pattern"
+			"category": "REACT",
+			"posts": [
+				{
+					"title": "React Typescript Template",
+					"date": "12.10.2024",
+					"slug": "12-10-2024-react-typescript-template"
+				},
+				{
+					"title": "Creative Button",
+					"date": "11.10.2024",
+					"slug": "11-10-2024-creative-button"
+				},
+				{
+					"title": "CSS Loading Animation",
+					"date": "10.10.2024",
+					"slug": "10-10-2024-css-loading-animation"
+				}
+			]
 		},
 		{
-			"title": "Module Pattern",
-			"date": "05.11.2024",
-			"slug": "05-11-2024-module-pattern"
+			"category": "PATTERNS",
+			"posts": [
+				{
+					"title": "Mediator/Middleware Pattern",
+					"date": "07.11.2024",
+					"slug": "07-11-2024-mediator-middleware-pattern"
+				},
+				{
+					"title": "Mixin Pattern",
+					"date": "06.11.2024",
+					"slug": "06-11-2024-mixin-pattern"
+				},
+				{
+					"title": "Module Pattern",
+					"date": "05.11.2024",
+					"slug": "05-11-2024-module-pattern"
+				},
+				{
+					"title": "Observer Pattern",
+					"date": "04.11.2024",
+					"slug": "04-11-2024-observer-pattern"
+				},
+				{
+					"title": "Prototype Pattern",
+					"date": "03.11.2024",
+					"slug": "03-11-2024-prototype-pattern"
+				},
+				{
+					"title": "Proxy Pattern",
+					"date": "02.11.2024",
+					"slug": "02-11-2024-proxy-pattern"
+				},
+				{
+					"title": "Singleton Pattern",
+					"date": "01.11.2024",
+					"slug": "01-11-2024-singleton-pattern"
+				}
+			]
 		},
 		{
-			"title": "Observer Pattern",
-			"date": "04.11.2024",
-			"slug": "04-11-2024-observer-pattern"
-		},
-		{
-			"title": "Prototype Pattern",
-			"date": "03.11.2024",
-			"slug": "03-11-2024-prototype-pattern"
-		},
-		{
-			"title": "Proxy Pattern",
-			"date": "02.11.2024",
-			"slug": "02-11-2024-proxy-pattern"
-		},
-		{
-			"title": "Singleton Pattern",
-			"date": "01.11.2024",
-			"slug": "01-11-2024-singleton-pattern"
-		},
-		{
-			"title": "React Typescript Template",
-			"date": "12.10.2024",
-			"slug": "12-10-2024-react-typescript-template"
-		},
-		{
-			"title": "Creative Button",
-			"date": "11.10.2024",
-			"slug": "11-10-2024-creative-button"
-		},
-		{
-			"title": "CSS Loading Animation",
-			"date": "10.10.2024",
-			"slug": "10-10-2024-css-loading-animation"
-		},
-		{
-			"title": "TypeScript / Optional Chaining and Code Coverage",
-			"slug": "12-12-2024-typescript-optional-chaining-and-code-coverage",
-			"date": "12.12.2024"
-		},
-		{
-			"title": "9 Principles of Good Web Design",
-			"slug": "02-12-2024-9-principles-of-good-web-design",
-			"date": "02.12.2024"
+			"category": "READING NOTES",
+			"posts": [
+				{
+					"title": "9 Principles of Good Web Design",
+					"slug": "02-12-2024-9-principles-of-good-web-design",
+					"date": "02.12.2024"
+				}
+			]
 		}
 	]
 }
