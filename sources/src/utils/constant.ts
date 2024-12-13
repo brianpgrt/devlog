@@ -12,3 +12,5 @@ export const SORT_DIRECTION = {
 	ASC: "asc",
 	DESC: "desc"
 };
+
+export const PATH_RAW_GITHUB_USER_CONTENT = "https://raw.githubusercontent.com/haorocks/devlog/main/...";
