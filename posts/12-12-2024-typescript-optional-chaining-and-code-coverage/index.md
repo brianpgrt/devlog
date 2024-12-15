@@ -1,7 +1,6 @@
 ---
 title: "TypeScript / Optional Chaining and Code Coverage"
 date: "12.12.2024"
-repository: "https://github.com/haorocks"
 ---
 
 For the uninformed, **optional chaining** is a new JavaScript feature that allows you to access property values deep inside an object without checking that each reference in the chain is valid. For example:

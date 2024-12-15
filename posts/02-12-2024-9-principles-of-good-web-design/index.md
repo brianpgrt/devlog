@@ -15,7 +15,7 @@ A web designer's salary averages an impressive **$57,000** annually — around *
 
 &nbsp;
 
-![seo](https://raw.githubusercontent.com/haorocks/devlog/main/posts/what-makes-a-good-website-9-principles-of-good-web-design/1.jpeg)
+![Alt text](https://raw.githubusercontent.com/haorocks/devlog/main/posts/02-12-2024-9-principles-of-good-web-design/1.jpeg)
 
 > Source: [Faizur Rehman](https://unsplash.com/photos/silver-imac-on-brown-wooden-table-yapBRdPWxik)
 
@@ -37,7 +37,7 @@ Website design is important because it helps create an engaging and effective us
 
 &nbsp;
 
-![seo](https://raw.githubusercontent.com/haorocks/devlog/main/posts/what-makes-a-good-website-9-principles-of-good-web-design/2.jpeg)
+![Alt text](https://raw.githubusercontent.com/haorocks/devlog/main/posts/02-12-2024-9-principles-of-good-web-design/2.jpeg)
 
 > Source: **Bluehost**
 
@@ -63,7 +63,7 @@ Regarding web design, one thing is clear: content is king. Sure, web design feat
 
 &nbsp;
 
-![seo](https://raw.githubusercontent.com/haorocks/devlog/main/posts/what-makes-a-good-website-9-principles-of-good-web-design/3.jpeg)
+![Alt text](https://raw.githubusercontent.com/haorocks/devlog/main/posts/02-12-2024-9-principles-of-good-web-design/3.jpeg)
 
 > Source: [The Interactive Design Foundation](https://www.interaction-design.org/literature/topics/content-first)
 
@@ -85,7 +85,7 @@ Navigation can be one of the most important principles for getting the website r
 
 &nbsp;
 
-![seo](https://raw.githubusercontent.com/haorocks/devlog/main/posts/what-makes-a-good-website-9-principles-of-good-web-design/4.jpeg)
+![Alt text](https://raw.githubusercontent.com/haorocks/devlog/main/posts/02-12-2024-9-principles-of-good-web-design/4.jpeg)
 
 > Source: [WP Swings](https://wpswings.com/blog/website-navigation-guide/)
 
@@ -107,7 +107,7 @@ In web design, one universal truth holds: responsive design is necessary. Respon
 
 &nbsp;
 
-![seo](https://raw.githubusercontent.com/haorocks/devlog/main/posts/what-makes-a-good-website-9-principles-of-good-web-design/5.jpeg)
+![Alt text](https://raw.githubusercontent.com/haorocks/devlog/main/posts/02-12-2024-9-principles-of-good-web-design/5.jpeg)
 
 > Source: [The Interaction Design Foundation](https://www.interaction-design.org/literature/article/responsive-design-let-the-device-do-the-work)
 
@@ -125,7 +125,7 @@ In web design, achieving a balanced look is one of the most important principles
 
 &nbsp;
 
-![seo](https://raw.githubusercontent.com/haorocks/devlog/main/posts/what-makes-a-good-website-9-principles-of-good-web-design/6.jpeg)
+![Alt text](https://raw.githubusercontent.com/haorocks/devlog/main/posts/02-12-2024-9-principles-of-good-web-design/6.jpeg)
 
 > Source: [Wix](https://www.wix.com/blog/asymmetrical-balance)
 
@@ -139,7 +139,7 @@ With web design, color can make all the difference. After all, it’s the first 
 
 &nbsp;
 
-![seo](https://raw.githubusercontent.com/haorocks/devlog/main/posts/what-makes-a-good-website-9-principles-of-good-web-design/7.jpeg)
+![Alt text](https://raw.githubusercontent.com/haorocks/devlog/main/posts/02-12-2024-9-principles-of-good-web-design/7.jpeg)
 
 > Source: [Pawel Czerwinski](https://unsplash.com/photos/assorted-color-smoke-3k9PGKWt7ik)
 
@@ -157,7 +157,7 @@ Fonts aren't just for adding decoration to web pages - they can make or break al
 
 &nbsp;
 
-![seo](https://raw.githubusercontent.com/haorocks/devlog/main/posts/what-makes-a-good-website-9-principles-of-good-web-design/8.jpeg)
+![Alt text](https://raw.githubusercontent.com/haorocks/devlog/main/posts/02-12-2024-9-principles-of-good-web-design/8.jpeg)
 
 > Source: [work.co](https://work.co/)
 
@@ -183,7 +183,7 @@ Over sixty-eight years ago, psychologist Paul Fitts constructed a theory and des
 
 &nbsp;
 
-![seo](https://raw.githubusercontent.com/haorocks/devlog/main/posts/what-makes-a-good-website-9-principles-of-good-web-design/9.jpeg)
+![Alt text](https://raw.githubusercontent.com/haorocks/devlog/main/posts/02-12-2024-9-principles-of-good-web-design/9.jpeg)
 
 > Source: [Wikipedia](https://en.wikipedia.org/wiki/Fitts%27s_law)
 
@@ -205,7 +205,7 @@ You can use this F pattern on your website either directly or in an equivalent f
 
 &nbsp;
 
-![seo](https://raw.githubusercontent.com/haorocks/devlog/main/posts/what-makes-a-good-website-9-principles-of-good-web-design/10.jpeg)
+![Alt text](https://raw.githubusercontent.com/haorocks/devlog/main/posts/02-12-2024-9-principles-of-good-web-design/10.jpeg)
 
 > Source: [Instapage](https://instapage.com/blog/f-pattern-layout)
 
