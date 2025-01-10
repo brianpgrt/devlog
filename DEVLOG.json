@@ -21,13 +21,13 @@
 				{
 					"title": "Creative Button",
 					"date": "11.10.2024",
-					"slug": "11-10-2024-creative-button"
+					"slug": "11-10-2024-creative-button",
+					"banner": "https://raw.githubusercontent.com/haorocks/devlog/main/posts/11-10-2024-creative-button/1.png"
 				},
 				{
 					"title": "CSS Loading Animation",
 					"date": "10.10.2024",
-					"slug": "10-10-2024-css-loading-animation",
-					"banner": "https://raw.githubusercontent.com/haorocks/devlog/main/posts/10-10-2024-css-loading-animation/1.png"
+					"slug": "10-10-2024-css-loading-animation"
 				}
 			]
 		},

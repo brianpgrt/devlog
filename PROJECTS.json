@@ -3,18 +3,27 @@
 		{
 			"title": "NextJs GuaranTek",
 			"date": "01.14.2025",
-			"path": "https://hao.rocks"
+			"path": "https://guarantek.com.vn/"
+		},
+		{
+			"title": "NextJs Simtrade",
+			"date": "01.14.2025",
+			"path": "https://sim-trade.guarantek.com.vn/"
+		},
+		{
+			"title": "NextJs GuaranTek V1",
+			"date": "01.14.2025",
+			"path": "https://next-guarantek.vercel.app/"
 		},
 		{
 			"title": "NextJs JenaHuynh",
 			"date": "01.13.2025",
-			"repository": "https://github.com/haorocks"
+			"path": "https://jenahuynh.com/"
 		},
 		{
 			"title": "NextJs Dokever",
 			"date": "01.12.2025",
-			"repository": "https://github.com/haorocks",
-			"banner": "https://raw.githubusercontent.com/haorocks/devlog/main/posts/10-10-2024-css-loading-animation/1.png"
+			"path": "https://next-dokever.vercel.app/"
 		}
 	]
 }
